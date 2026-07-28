@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-40l3oi.salamduit.sbs/sitemap.xml
